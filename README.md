@@ -1,6 +1,8 @@
 # LINE-AIChatBot
 基於JAVA Spring Boot 、 LINE Developer Messaging API 、 OpenAI API 實現的 Line AI 聊天機器人
 
+此聊天機器人為基礎版本，進階版請前往 : <https://github.com/justinwu1220/LINE-AIChatBot-advanced>
+
 ## 技術
 - LineBot :
   - 使用LINE Developer建立機器人
